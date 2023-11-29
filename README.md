@@ -38,7 +38,6 @@ A container holds the [ranges](https://ej2.syncfusion.com/angular/documentation/
 The gauge axes are linear scales where a set of values can be plotted based on any business logic. Users can also easily customize the appearance of the axes.
 
 ### Range customization
-{% endheader %}
 A range in an Angular Linear Gauge is a visual element that helps to quickly visualize where a value falls on the axis.
 
 ### Pointer animation
