@@ -61,18 +61,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "angular11Linear-gauge:build"
+            "buildTarget": "angular11Linear-gauge:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "angular11Linear-gauge:build:production"
+              "buildTarget": "angular11Linear-gauge:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "angular11Linear-gauge:build"
+            "buildTarget": "angular11Linear-gauge:build"
           }
         },
         "test": {
